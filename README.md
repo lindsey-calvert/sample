@@ -1,1 +1,4 @@
-# sample
+Sample File  
+
+- bullet points
+# Headings
